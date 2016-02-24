@@ -1,7 +1,16 @@
 /* Shared
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .button {
-  border-radius: 100px;
+  border-radius: 3px;
+}
+
+.hero button.button-primary {
+  background:#1AB6E6;
+  border-color:#1AB6E6;
+}
+
+.hero-heading {
+  font-family: 'Open Sans', sans-serif;
 }
 
 a {
@@ -19,6 +28,10 @@ a {
   margin-bottom: 1.2rem;
 }
 
+.bb {
+   border-bottom: 1px solid #ddd;
+}
+
 
 
 /* Header
@@ -29,9 +42,9 @@ a {
   left:0;
   right:0;
   top:0;
-  height:5rem;
+  height:7rem;
   border-bottom:1px solid rgba(255,255,255,0.15);
-  line-height:5rem;
+  line-height:7rem;
 }
 
 .header .wrapper {
@@ -40,14 +53,14 @@ a {
 
 .logo {
   color:rgba(255,255,255,0.9);
-  font-family: 'Iceland', cursive;
-  font-size:2rem;
-  letter-spacing:0.6rem;
+  font-family: 'Teko', sans-serif;
+  font-size:2.5rem;
+  letter-spacing:0.55rem;
 }
 
 img.logo {
   height:2.2rem;
-  margin: 1.4rem 1.4rem 1.4rem 0;
+  margin: 2.4rem 2.4rem 1.4rem 0;
   float: left;
 }
 
@@ -59,6 +72,14 @@ img.logo {
     background: url('../images/hero2.png') center center no-repeat;
     background-size: cover;
     color: #fff;
+}
+
+.hero-heading {
+  font-weight:400;
+}
+
+.hero-description {
+  font-weight:300;
 }
 
 
@@ -103,6 +124,13 @@ img.logo {
     position: relative;
     max-width: 80%;
     margin: 3rem auto -12rem;
+}
+
+/* Interface
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.interface {
+
 }
 
 /* Categories
@@ -182,13 +210,13 @@ img.logo {
 /* Bigger than 1000 */
 @media (min-width: 1000px) {
   .section {
-    padding: 13rem 0 14rem;
+    padding: 10rem 0 10rem;
   }
   .hero, .ready {
-    padding: 23rem 0;
+    padding: 22rem 0 28rem 0;
   }
   .hero-heading {
-    font-size: 3.0rem;
+    font-size: 3rem;
   }
   .phone {
     top: -16rem;
