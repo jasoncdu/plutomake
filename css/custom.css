@@ -32,6 +32,9 @@ a {
    border-bottom: 1px solid #ddd;
 }
 
+.section.nb {
+  padding-bottom:0px;
+}
 
 
 /* Header
@@ -83,6 +86,35 @@ img.logo {
 }
 
 
+/* Screenshot Sections
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+
+.ss-text {
+  padding-left:2rem;
+}
+
+.ss-heading {
+  text-align:left;
+}
+
+.ss-description {
+  text-align:left;
+  font-weight:300;
+}
+
+/* Interface
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.interface_ss {
+    position: relative;
+    left: -10%;
+    top:6px;
+    max-width:115%;
+}
+
+
+
 /* Values
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .values {
@@ -126,12 +158,6 @@ img.logo {
     margin: 3rem auto -12rem;
 }
 
-/* Interface
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-
-.interface {
-
-}
 
 /* Categories
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
