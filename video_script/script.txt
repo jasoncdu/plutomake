@@ -1,50 +1,64 @@
-[Bill pops in]
+[Bill pops in, smiling, ready to start the day, ready to take over the world]
 
 This is Bill.
-[Bill waves hand]
+[Bill waves hand, pretending to know the person watching the video, like he knows you exist]
 
 Bill ownes a small print shop.
-[image of shop slides in]
+[image of Bill's shop slides in, with a few customers around it]
 
-Bill works hard to maintain his business, but times are changing and customers are evolving.
-Now a days customers like fancy websites with advanced previewing functionality for their printing needs.
-[good looking websites slide in, customers slide in and move towards them]
+Bill works hard to maintain his business, but times are changing and customers are evolving with new needs for the current era.
+[spinning clock, scenery gets more technical]
 
-Customers are also on the go with their mobile phones.
-[electronic gadgets like phones slides through, customers using them]
+Today's customers love fancy but simple solutions with previewing functionality.
+[good looking websites slide in, customers slide in and move towards them, ignoring Bill's simple site]
 
-Customers are all around Bill but because of a lack of moderization, Bill is not seen by them.
-[customers walk past bill and his shop in both directions]
+In addition, they use "modern" and "mobile" technology, in order to always be ONLINE.
+[cutomers shown using electronic gadgets like phones, wireless bluetooth headsets while on the go, connected to the INTERNET]
 
-Competitions are growing stronger, they provide better functionality to customers making it hard for Bill to get more customers.
-[web2print features slide in, bigger shops with scary looking business people in suits expand beside Bill's shop, and customers go there instead of Bill's shop, Bill is sad]
+Competition evolves to match the needs of these new customers by providing them with better functionality and visuals to serve them no matter where they are. 
+[Blocks representing features move towards other shops, while no blocks move towards Bill's shop]
+[Customers using other solutions, in home, on the go]
 
-In the modern era, previewing, customization, fancy visuals and ease of use attract customers.
-[customization visuals come in]
+Customers are around Bill but because of a lack of modernization and functionality, Bill's business goes unnoticed.
+[customers walk past bill and his shop in both directions, Bill's shop looks outdated, other shops look modern]
+[web2print features slide in, bigger shops with scary looking business people in suits expand beside Bill's shop, and customers go there instead of Bill's shop]
 
-We believe people like Bill deserve better. That's where PlutoMake comes in. 
+This makes it hard for Bill to get more customers.
+[Bill is sad]
+
+Bill deserves better. That's where PlutoMake comes in. 
 [PlutoMake logo slides in]
 
-
-In our solution, we provide Bill a way to enhance his own print solution and be in the modern age. A way to be seen by more customers.
+We get customers to Bill by enhancing Bill's solution to match the needs of today's customers.
 [Bill shop is now glowing, and customers can notice it]
 
+Here's how it works:
 
-Customers using Bill's new solution can design their own card exactly the way they want it.
-[image of plugin comes in]
+Customers go to Bill's "existing" website, and click the "preview" button.
+[Customer shown navigating to website, and clicking a big button on side]
 
-When they are done, they can send it the print shop in a print friendly within a few clicks.
+An integrated panel pops in on the site allowing customers to work right then and there.
+[Panel popus up on the site]
 
-With ease of use, a beautiful design, enhanced customization, printer friendly export options and 24/7 help support, customers can get the peace of mind they always wanted.
+They design their product exactly the way they want it.
+[customer shown using the plugin to customize their card]
+
+When finished, they send it to Bill's shop in a print friendly way within a few clicks.
+[Customer's export their logo and send it to shop, and it gets printed, customer smiles when they get it]
+
+With PlutoMake, Bill is garunteed compatibility to print the users design with preflighting verification technology.
+[Customers design shows compatibility with Bill's printer, checkmark animation with text "compatible"]
+
+With ease of use, a beautiful design, enhanced customization, printer friendly export options and dedicated help, customers can get the peace of mind they always wanted.
 [customers with heart's coming up from their body] 
 
-Bill can upload all of this designs and templates to PlutoMake, so that the customizations his customers make are all tailored to what Bill's shop can make.
-[Bill moving all his designs to PlutoMake]
-
-Setting it up for Bill was as easy as dragging and droping a plugin onto his site, and adding his designs, and that's it. PlutoMake can now be used directly on his site.
+Setup is very simple and Bill can use all of his existing design's and templates so that customers can use what he offers.
 [Bill setting it up on his laptop smiling]
 
-Now Bill is loved by more customers and is making the kind of money he deserves
-[Bill dancing with cash raining down]
+PlutoMake also sits atop Bill's own website, making it very easy for customers.
+[Animation of panel sliding on Bill's website]
+
+Now Bill is loved by more customers and business has started to boom for Bill.
+[Bill surrounded with customers]
 
 [Conclude with PlutoMake final statements and logo]
