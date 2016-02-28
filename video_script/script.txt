@@ -6,16 +6,22 @@ This is Bill.
 Bill ownes a small print shop.
 [image of Bill's shop slides in, with a few customers around it]
 
-Bill works hard to maintain his business, but times are changing and customers are evolving with new needs for the current era.
+Bill works hard to maintain his business, but times are changing and customers are evolving with new needs
 [spinning clock, scenery gets more technical]
+
+-------------------------------- iffy,combine theses two -----------------------------------
 
 Today's customers love fancy but simple solutions with previewing functionality.
 [good looking websites slide in, customers slide in and move towards them, ignoring Bill's simple site]
 
-In addition, they use "modern" and "mobile" technology, in order to always be ONLINE.
+They use "modern" and "mobile" technology, in order to always be ONLINE.
 [cutomers shown using electronic gadgets like phones, wireless bluetooth headsets while on the go, connected to the INTERNET]
 
-Competition evolves to match the needs of these new customers by providing them with better functionality and visuals to serve them no matter where they are. 
+// they demand instant results
+// like to be in control
+
+
+As competition evolves to match the needs of their customers by providing them with better functionality and visuals to serve them no matter where they are.
 [Blocks representing features move towards other shops, while no blocks move towards Bill's shop]
 [Customers using other solutions, in home, on the go]
 
@@ -26,10 +32,20 @@ Customers are around Bill but because of a lack of modernization and functionali
 This makes it hard for Bill to get more customers.
 [Bill is sad]
 
+// Bill's competitors have adapted to the needs of their new customers by providing easy to use solutions .. {provide generic examples?}
+// leaving small print shops in the 20th century / dust
+
+-------------------------------- /iffy change -----------------------------------
+
+-------------------------------- good -----------------------------------
+
 Bill deserves better. That's where PlutoMake comes in. 
 [PlutoMake logo slides in]
 
 We get customers to Bill by enhancing Bill's solution to match the needs of today's customers.
+
+// give them tools to provide the same level of service as bill's competitors .. to match the needs of today's customers
+
 [Bill shop is now glowing, and customers can notice it]
 
 Here's how it works:
@@ -37,16 +53,18 @@ Here's how it works:
 Customers go to Bill's "existing" website, and click the "preview" button.
 [Customer shown navigating to website, and clicking a big button on side]
 
-An integrated panel pops in on the site allowing customers to work right then and there.
+An integrated panel pops in on the site allowing customers to work right then and there. // wording
 [Panel popus up on the site]
 
 They design their product exactly the way they want it.
 [customer shown using the plugin to customize their card]
 
-When finished, they send it to Bill's shop in a print friendly way within a few clicks.
+When finished, they send it to Bill's shop in a print friendly way within a few clicks. // wording - more automatic (when finished, a print file of their design is generated and sent to the print facility for printing)
 [Customer's export their logo and send it to shop, and it gets printed, customer smiles when they get it]
 
-With PlutoMake, Bill is garunteed compatibility to print the users design with preflighting verification technology.
+-------------------------------- /good -----------------------------------
+
+With PlutoMake, Bill is garunteed compatibility to print the users design with preflight capabilities.
 [Customers design shows compatibility with Bill's printer, checkmark animation with text "compatible"]
 
 With ease of use, a beautiful design, enhanced customization, printer friendly export options and dedicated help, customers can get the peace of mind they always wanted.
@@ -55,7 +73,7 @@ With ease of use, a beautiful design, enhanced customization, printer friendly e
 Setup is very simple and Bill can use all of his existing design's and templates so that customers can use what he offers.
 [Bill setting it up on his laptop smiling]
 
-PlutoMake also sits atop Bill's own website, making it very easy for customers.
+PlutoMake sits atop Bill's own website, making it very easy for customers.
 [Animation of panel sliding on Bill's website]
 
 Now Bill is loved by more customers and business has started to boom for Bill.
