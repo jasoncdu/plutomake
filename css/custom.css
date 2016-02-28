@@ -17,6 +17,10 @@ a {
   text-decoration: none;
 }
 
+p {
+  font-weight:300;
+}
+
 /* Sections
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .section {
@@ -83,6 +87,15 @@ img.logo {
 
 .hero-description {
   font-weight:300;
+}
+
+
+/* Screenshot Sections
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.steps-description {
+  max-width:80%;
+  margin:auto auto 4rem auto;
 }
 
 
