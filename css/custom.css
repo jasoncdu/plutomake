@@ -97,6 +97,19 @@ img.logo {
 }
 
 
+/* Join
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.join {
+  height:200px;
+  width:100%;
+  background: url('../images/table-print-banner.png')
+  center center no-repeat;
+  background-size: cover;
+  color: #fff;
+}
+
+
 /* Screenshot Sections
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
@@ -125,6 +138,11 @@ img.logo {
 
 /* Interface
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+
+.interface {
+  margin-top:-8rem;
+}
 
 .interface_ss {
     position: relative;
@@ -264,7 +282,7 @@ img.logo {
   }
 
   .hero, .ready {
-    padding: 22rem 0 28rem 0;
+    padding: 27rem 0;
   }
   .hero-heading {
     font-size: 3rem;
