@@ -146,9 +146,10 @@ img.logo {
 
 .interface_ss {
     position: relative;
-    left: -10%;
-    top:6px;
-    max-width:115%;
+/*    left: -10%;*/
+    top:7px;
+    /*max-width:115%;*/
+    max-width:100%;
 }
 
 
