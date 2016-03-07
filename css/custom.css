@@ -1,3 +1,11 @@
+html {
+  padding:0 10rem;
+  background: #E1E1E1;
+}
+
+body {
+  background:#fff;
+}
 
 
 /* Shared
@@ -122,9 +130,21 @@ img.logo {
 /* Screenshot Sections
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
-
 .ss-text {
+  text-align: left;
+}
+
+.ss-text.right {
   padding-left:2rem;
+}
+
+.ss-text.left {
+  padding-right:2rem;
+}
+
+.ss-text .button {
+  background:#3CC78E;
+  border-color:#34B37F;
 }
 
 .ss-heading {
@@ -283,7 +303,7 @@ img.logo {
   }
 
   .hero, .ready {
-    padding: 24rem 0;
+    padding: 27rem 0;
   }
   .hero-heading {
     font-size: 3rem;
