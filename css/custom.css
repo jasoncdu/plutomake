@@ -143,9 +143,12 @@ button.nav-try {
 /* Join
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
-.this {
-  border-bottom:1px solid #fff;
-  height:100%;
+.section.join-top {
+  padding:8rem 0;
+}
+
+.join-top h5 {
+  margin-bottom:0;
 }
 
 .join {
@@ -176,7 +179,7 @@ button.nav-try {
 button.try {
   background:#fff;
   font-size:1.5rem;
-  padding:1rem 18rem;
+  padding:1rem 25rem;
   height:inherit;
   margin-bottom:0;
   color:#195EAE;
