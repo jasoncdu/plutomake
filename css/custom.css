@@ -1,10 +1,12 @@
 html {
-  padding:0 10rem;
-  background: #E1E1E1;
+  /*padding:0 12rem*/;
+  background: #CACACA;
 }
 
 body {
   background:#fff;
+  max-width:80%;
+  margin:0 auto;
 }
 
 
@@ -29,10 +31,12 @@ a {
 
 p {
   font-weight:300;
+  font-family: 'Roboto', sans-serif;
+  font-size:17px;
 }
 
 h4 {
-  color: #4A4A4A;
+  color: #195EAE;
   font-weight: 400;
 }
 
@@ -65,12 +69,13 @@ h4 {
 
 .header {
   position:absolute;
-  left:0;
-  right:0;
+  z-index:1;
   top:0;
   height:7rem;
+  width:80%;
   border-bottom:1px solid rgba(255,255,255,0.15);
   line-height:7rem;
+  background:rgba(25, 93, 175, 0.15);
 }
 
 .header .wrapper {
@@ -78,7 +83,7 @@ h4 {
 }
 
 .logo {
-  color:rgba(255,255,255,0.9);
+  color:rgba(255,255,255,1);
   font-family: 'Teko', sans-serif;
   font-size:2.5rem;
   letter-spacing:0.55rem;
@@ -90,6 +95,32 @@ img.logo {
   float: left;
 }
 
+.nav {
+  float:right;
+}
+
+.nav nav {
+  float:right;
+}
+
+.nav nav ul {
+  list-style:none;
+}
+
+.nav nav ul a li {
+    display:inline-block;
+    margin:0 0 0 2.5rem;
+    font-weight:400;
+    color:#fff;
+    font-family:'Roboto', sans-serif;
+    font-size:16px;
+}
+
+button.nav-try {
+  border-width:1px;
+  border-color: #fff;
+  color:#fff;
+}
 
 /* Hero
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -112,13 +143,52 @@ img.logo {
 /* Join
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
+.this {
+  border-bottom:1px solid #fff;
+  height:100%;
+}
+
 .join {
   height:200px;
+  /*line-height:200px;*/
   width:100%;
-  background: url('../images/table-print-banner.png')
-  center center no-repeat;
+  /*background: url('../images/join-banner1.png')
+  center center no-repeat;*/
+  background-color:#2DA876;
   background-size: cover;
   color: #fff;
+}
+
+.try-title h5 {
+  font-size:2.6rem;
+  font-weight:400;
+}
+
+.try-bg {
+  background:#fff;
+  padding:2rem;
+  margin:0 auto;
+  display:inline-block;
+  border-radius:5px;
+  line-height: 60px;
+}
+
+button.try {
+  background:#fff;
+  font-size:1.5rem;
+  padding:1rem 18rem;
+  height:inherit;
+  margin-bottom:0;
+  color:#195EAE;
+}
+
+
+/* Steps section
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.steps-heading {
+    margin-bottom: .8rem;
+    font-weight:400;
 }
 
 
@@ -147,8 +217,8 @@ img.logo {
 }
 
 .ss-text .button {
-  background:#3CC78E;
-  border-color:#34B37F;
+  background:#2DA876;
+  border-color:#229768;
 }
 
 .ss-heading {
@@ -177,7 +247,12 @@ img.logo {
     max-width:100%;
 }
 
+/* Benefits
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 
+.benefits .title {
+  padding-bottom:4rem;
+}
 
 /* Values
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -203,11 +278,15 @@ img.logo {
 }
 
 .value-heading {
-  margin-bottom: .3rem;
+  margin-bottom: .5rem;
+  text-align:left;
+  /*color:#195EAE;*/
+  color:#000;
+  font-weight:400;
 }
 .value-description {
-  opacity: .8;
   font-weight: 300;
+  text-align:left;
 }
 
 /* Ready
@@ -305,6 +384,10 @@ img.logo {
 
   .section.steps {
     padding: 8rem 0 8rem;
+  }
+
+  .steps img {
+    max-width:80%;
   }
 
   .hero, .ready {
